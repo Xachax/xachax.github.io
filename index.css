@@ -1,1 +1,21 @@
+body {
+  background-color: gray;
+}
 
+.navbar {
+  margin: 0 auto;
+  width: 50vw;
+  height: 100px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.navbar li {
+  display: inline;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 20px;
+  padding-left: 20px;
+}
